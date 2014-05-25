@@ -1,0 +1,23 @@
+{
+  "name": "coderdojolasvegas.com",
+  "version": "0.0.0",
+  "description": "The main website for coderdojolasvegas.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CoderDojoLasVegas/coderdojolasvegas.com.git"
+  },
+  "keywords": [
+    "blog",
+    "learn",
+    ""
+  ],
+  "author": "Nathan A Sculli",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/CoderDojoLasVegas/coderdojolasvegas.com/issues"
+  }
+}
