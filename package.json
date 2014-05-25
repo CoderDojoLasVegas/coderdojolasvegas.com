@@ -19,5 +19,9 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/CoderDojoLasVegas/coderdojolasvegas.com/issues"
+  },
+  "dependencies": {
+    "poet": "~1.0.2",
+    "express": "~4.3.1"
   }
 }
